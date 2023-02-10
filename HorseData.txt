@@ -1,0 +1,6 @@
+Patches,1443
+Bandit,1390
+Duke,1478
+Trigger,1321
+Misty,1427
+Autumn,1464
